@@ -21,6 +21,23 @@ Below the content is a mix of books, articles and videos and I wanted to give a 
 
 -   🎥 Video
 
+# Table Of Contents
+- [New Manager - Making The Switch From IC](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#new-manager---making-the-switch-from-ic)
+- [How To Help Your Team Grow In Their Career](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#how-to-help-your-team-grow-in-their-career)
+- [Project Management](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#project-management)
+- [Culture](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#culture)
+- [Team Organization](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#team-organization)
+- [Talent Acquisition And Retention](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#talent-acquisition-and-retention)
+- [Onboarding](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#onboarding)
+- [Communication](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#communication)
+- [Influence](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#influence)
+- [Templates](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#templates-and-guides)
+- [Data Infrastructure](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#data-infrastructure)
+- [Other](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#other)
+
+
+# Resources
+
 ### New Manager - Making The Switch From IC
 
 When you're making the switch from IC to manager there are so many new challenges you'll need to take on. That's why this section contains mostly books because I believe there is a lot to cover and most of it can't just be covered in a 1500 word article.
