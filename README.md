@@ -25,19 +25,19 @@ Below the content is a mix of books, articles and videos and I wanted to give a 
 
 When you're making the switch from IC to manager there are so many new challenges you'll need to take on. That's why this section contains mostly books because I believe there is a lot to cover and most of it can't just be covered in a 1500 word article.
 
--   📚 [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by [Julie Zhuo](https://open.substack.com/users/4039637-julie-zhuo?utm_source=mentions)
+-   📚 [The Making of a Manager: What to Do When Everyone Looks to You (paid)](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by [Julie Zhuo](https://open.substack.com/users/4039637-julie-zhuo?utm_source=mentions)
 
--   📚 [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG/ref=sr_1_2_sspa?crid=SQ9LOBU0Z6PQ&keywords=the+staff+engineer%27s+path&qid=1697901694&sprefix=the+staff+engine%2Caps%2C95&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+-   📚 [Staff Engineer: Leadership beyond the management track (paid)](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG/ref=sr_1_2_sspa?crid=SQ9LOBU0Z6PQ&keywords=the+staff+engineer%27s+path&qid=1697901694&sprefix=the+staff+engine%2Caps%2C95&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
--   📚 [Multipliers, Revised and Updated: How the Best Leaders Make Everyone Smart](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172/ref=asc_df_0062699172/?tag=hyprod-20&linkCode=df0&hvadid=312065696873&hvpos=&hvnetw=g&hvrand=1486867547491589640&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028743&hvtargid=pla-416842025441&psc=1&mcid=365ead1685063dc2b6801ae7dcaf85d2&tag=&ref=&adgrpid=61316180399&hvpone=&hvptwo=&hvadid=312065696873&hvpos=&hvnetw=g&hvrand=1486867547491589640&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028743&hvtargid=pla-416842025441&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2ChLIVkAzvky-r4mNl8xcpM3LQGOFv1cX6S-C1k5Ar3BASXR3EhGSoaAi9OEALw_wcB)
+-   📚 [Multipliers, Revised and Updated: How the Best Leaders Make Everyone Smart (paid)](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172/ref=asc_df_0062699172/?tag=hyprod-20&linkCode=df0&hvadid=312065696873&hvpos=&hvnetw=g&hvrand=1486867547491589640&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028743&hvtargid=pla-416842025441&psc=1&mcid=365ead1685063dc2b6801ae7dcaf85d2&tag=&ref=&adgrpid=61316180399&hvpone=&hvptwo=&hvadid=312065696873&hvpos=&hvnetw=g&hvrand=1486867547491589640&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028743&hvtargid=pla-416842025441&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2ChLIVkAzvky-r4mNl8xcpM3LQGOFv1cX6S-C1k5Ar3BASXR3EhGSoaAi9OEALw_wcB)
 
--   📚 [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V?ref_=ast_author_dp)
+-   📚 [An Elegant Puzzle: Systems of Engineering Management (paid)](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V?ref_=ast_author_dp)
 
--   📚 [The Advice Trap](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/ref=sr_1_4?crid=1PUAOVOEBGT86&keywords=the+advice+habit&qid=1697901727&sprefix=the+advice+habit%2Caps%2C93&sr=8-4)
+-   📚 [The Advice Trap (paid)](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/ref=sr_1_4?crid=1PUAOVOEBGT86&keywords=the+advice+habit&qid=1697901727&sprefix=the+advice+habit%2Caps%2C93&sr=8-4)
 
 -   📝 [7 Habits Of Effective Data Managers](https://seattledataguy.substack.com/p/7-habits-of-effective-data-manager)
 
--   📝 [From IC to manager](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
+-   📝 [From IC to manager (paid)](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
 
 -   🎥 [The Engineer to Manager Transition, by Former Twitter Director of Engineering David Loftesness](https://www.youtube.com/watch?v=qaHEy1I2M5Q)
   
@@ -51,9 +51,9 @@ One of the goals as a manager is to help the ICs you manage grow. Luckily, there
 
 -   📝 [Becoming A Better Data Engineer - Tips On Translating Business Requirements](https://seattledataguy.substack.com/p/becoming-a-better-data-engineer-tips)
 
--   📝 [How to grow from a mid-level to senior Data Engineer](https://seattledataguy.substack.com/p/how-to-grow-from-mid-level-to-senior) by [Gregor Ojstersek](https://open.substack.com/users/106098672-gregor-ojstersek?utm_source=mentions)
+-   📝 [How to grow from a mid-level to senior Data Engineer (paid)](https://seattledataguy.substack.com/p/how-to-grow-from-mid-level-to-senior) by [Gregor Ojstersek](https://open.substack.com/users/106098672-gregor-ojstersek?utm_source=mentions)
 
--   📚 [The Unspoken Truths for Career Success: Navigating Pay, Promotions, and Power at Work](https://www.amazon.com/dp/B0B5D5S5BT/)
+-   📚 [The Unspoken Truths for Career Success: Navigating Pay, Promotions, and Power at Work (paid)](https://www.amazon.com/dp/B0B5D5S5BT/)
 
 -   🎥 [Speedrun Your Tech Promotion](https://www.youtube.com/watch?v=k65UW0gjsgU)
   
@@ -63,29 +63,30 @@ One of the goals as a manager is to help the ICs you manage grow. Luckily, there
 
 Now whether you're the one managing the project or you just need a sense of how to help your team keep projects flowing, here are a few great pieces of content you can look through to improve your project management and estimations.
 
--   📝 [Demystifying Project Estimation](https://hybridhacker.email/p/demystifying-project-estimation) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions) and [Jordan Cutler](https://open.substack.com/users/58854493-jordan-cutler?utm_source=mentions)
+
+-   📝 [Demystifying Project Estimation (paid)](https://hybridhacker.email/p/demystifying-project-estimation) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions) and [Jordan Cutler](https://open.substack.com/users/58854493-jordan-cutler?utm_source=mentions)
 
 -   📝[Navigating the Pitfalls of Data Projects](https://seattledataguy.substack.com/p/navigating-the-pitfalls-of-data-projects)
 
--   📝[How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝[How Big Tech Runs Tech Projects and the Curious Absence of Scrum (paid)](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📚 [Scrum: The Art of Doing Twice the Work in Half the Tim](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/)e
+-   📚 [Scrum: The Art of Doing Twice the Work in Half the Tim (paid)](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/)e
 
 ### Culture
 
 I ended splitting culture and team organization and management(the section below) because they did feel different in terms of how they can impact your team. One is how the team is generally organized and the other is how the team feels and is driven.
 
--   📝 [Inside Stripe's Engineering Culture - Part 1](https://newsletter.pragmaticengineer.com/p/stripe) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Inside Stripe's Engineering Culture - Part 1 (paid)](https://newsletter.pragmaticengineer.com/p/stripe) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [Elevating Your Data Team: From Service Providers to Strategic Partners](https://seattledataguy.substack.com/p/elevating-your-data-team-from-service)
 
--   📝 [6 Habits Of High-Performing Teams](https://seattledataguy.substack.com/p/6-habits-of-high-performing-teams)
+-   📝 [6 Habits Of High-Performing Teams (paid)](https://seattledataguy.substack.com/p/6-habits-of-high-performing-teams)
 
--   📚 [The Culture Code: The Secrets of Highly Successful Groups](https://www.amazon.com/dp/B077B1WF85?plink=gnDXnyshyaDMbvHH&pf_rd_r=TE3ZFBRVNF750XY787CF&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_0_4_ti)
+-   📚 [The Culture Code: The Secrets of Highly Successful Groups (paid)](https://www.amazon.com/dp/B077B1WF85?plink=gnDXnyshyaDMbvHH&pf_rd_r=TE3ZFBRVNF750XY787CF&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_0_4_ti)
 
--   📚 [Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/dp/B07XVQB7XV?plink=tic2wRXsHyfhfwWU&pf_rd_r=5P0EHYMEWYC7HS9GJGKW&ref_=adblp13nvvxx_0_8_ti)
+-   📚 [Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity (paid)](https://www.amazon.com/dp/B07XVQB7XV?plink=tic2wRXsHyfhfwWU&pf_rd_r=5P0EHYMEWYC7HS9GJGKW&ref_=adblp13nvvxx_0_8_ti)
 
--   [📚 Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/dp/B074VF6ZLM?plink=tic2wRXsHyfhfwWU&pf_rd_r=5P0EHYMEWYC7HS9GJGKW&ref_=adblp13nvvxx_0_9_ti)
+-   [📚 Start with Why: How Great Leaders Inspire Everyone to Take Action (paid)](https://www.amazon.com/dp/B074VF6ZLM?plink=tic2wRXsHyfhfwWU&pf_rd_r=5P0EHYMEWYC7HS9GJGKW&ref_=adblp13nvvxx_0_9_ti)
 
 ### Team Organization
 
@@ -101,17 +102,17 @@ How teams are organized impact the way we communicate and operate. Below are sev
 
 Hiring and retaining talent is an important aspect of being a manager. You need to be able to assess candidates with varying skills and backgrounds as well as create an environment that makes employees want to stay.
 
--   📝 [Hiring Software Engineers](https://newsletter.pragmaticengineer.com/p/hiring-software-engineers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Hiring Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/hiring-software-engineers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Retaining Software Engineers and Engineering Managers](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Retaining Software Engineers and Engineering Managers (paid)](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [Tips For Hiring Junior Data Engineers](https://www.theseattledataguy.com/how-to-hire-junior-data-engineers/)
 
 -   📝 [Hiring ONLY seniors is the worst policy in the software industry](https://zaidesanton.substack.com/p/hiring-only-seniors-is-worst-policy) by [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
 
--   📝 [Hiring an Engineering Manager](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2)  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Hiring an Engineering Manager (paid)](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2)  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Good Attrition, Bad Attrition for Software Engineers](https://newsletter.pragmaticengineer.com/p/attrition?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Good Attrition, Bad Attrition for Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/attrition?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   🎥 [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs)
 
@@ -121,27 +122,27 @@ Hiring and retaining talent is an important aspect of being a manager. You need 
 
 When you do hire someone or when you start a new role its great to have a smooth onboarding process as well as a plan for your first 90 days. That's why I picked the articles below that both review onboarding as well provide content for the employee who is just starting.
 
--   📝 [Onboarding For Data Teams](https://seattledataguy.substack.com/p/onboarding-for-data-teams?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2)
+-   📝 [Onboarding For Data Teams (paid)](https://seattledataguy.substack.com/p/onboarding-for-data-teams?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2)
 
 -   📝 [How To Onboard](https://www.developing.dev/p/how-to-onboard) by [Ryan Peterman](https://open.substack.com/users/38830210-ryan-peterman?utm_source=mentions)
 
--   📝 [Onboarding to a New Company](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2) by  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Onboarding to a New Company (paid)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2) by  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Navigating Your First 90 Days in a Data Job: A Comprehensive Guide](https://seattledataguy.substack.com/p/navigating-your-first-90-days-in)
+-   📝 [Navigating Your First 90 Days in a Data Job: A Comprehensive Guide (paid)](https://seattledataguy.substack.com/p/navigating-your-first-90-days-in)
 
 ### Communication
 
 It goes without saying that communication is a very valuable skill in any role. Even if you're the most technical person, if you can't communicate the goal of your work or help get other people on board your project will likely move slower or perhaps never even get started.
 
--   📚 [Crucial conversations](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433/ref=sr_1_1?crid=1WOHAFMU4WUAO&keywords=crucial+conversations&qid=1697901535&sprefix=crucial+conversations%2Caps%2C93&sr=8-1)
+-   📚 [Crucial conversations (paid)](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433/ref=sr_1_1?crid=1WOHAFMU4WUAO&keywords=crucial+conversations&qid=1697901535&sprefix=crucial+conversations%2Caps%2C93&sr=8-1)
 
--   📚 [Smart Brevity](https://www.amazon.com/Smart-Brevity-Power-Saying-More-ebook/dp/B09TGMK8G6/ref=sr_1_3?crid=23836X03OZJL9&keywords=smart+brevity&qid=1697901520&sprefix=smart+brevit%2Caps%2C91&sr=8-3)
+-   📚 [Smart Brevity (paid)](https://www.amazon.com/Smart-Brevity-Power-Saying-More-ebook/dp/B09TGMK8G6/ref=sr_1_3?crid=23836X03OZJL9&keywords=smart+brevity&qid=1697901520&sprefix=smart+brevit%2Caps%2C91&sr=8-3)
 
 -   📝 [How to make your team read your mind](https://zaidesanton.substack.com/p/how-to-make-your-team-read-your-mind) by 
 
     [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
 
--   📝 [Engineers' Guide to Feedback](https://hybridhacker.email/p/engineers-guide-to-feedback) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions)
+-   📝 [Engineers' Guide to Feedback(paid)](https://hybridhacker.email/p/engineers-guide-to-feedback) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions)
 
 -   📝 [If You Can Code, You Can Write!](https://www.thecaringtechie.com/p/if-you-can-code-you-can-write) by  [Irina Stanescu](https://open.substack.com/users/4332862-irina-stanescu?utm_source=mentions)
 
@@ -153,9 +154,9 @@ There are several great writers on Substack that focus heavily on influence. T
 
 -   📝 [Lesson #26: How to lead without being in management](https://www.engineeringleadership.xyz/p/lesson-26-how-to-lead-without-being) by [Lessons in Engineering Leadership](https://open.substack.com/pub/lessonsinengineeringleadership)
 
--   📚 [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/B08RLT11Q3/)
+-   📚 [Influence: The Psychology of Persuasion(paid)](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/B08RLT11Q3/)
 
--   📚 [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/dp/B01COR1GM2?plink=n6oGUkQwPc1xoHOW&pf_rd_r=FHKA4WWNHB34MGWH86HC&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_1_0_im)
+-   📚 [Never Split the Difference: Negotiating as if Your Life Depended on It(paid)](https://www.amazon.com/dp/B01COR1GM2?plink=n6oGUkQwPc1xoHOW&pf_rd_r=FHKA4WWNHB34MGWH86HC&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_1_0_im)
 
 ### Templates And Guides
 
@@ -201,9 +202,9 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 This last section is a mix of articles that range from focusing on how to calculate productivity or perhaps how not to, as well as some other pieces of content I didn't feel like had a specific category.
 
--   📝 [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Measuring developer productivity? A response to McKinsey (paid)](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [The Trap of Tying Your Identity to Your Job Title.](https://elenaverna.substack.com/p/the-trap-of-tying-your-identity-to) by [Elena Verna](https://open.substack.com/users/3478323-elena-verna?utm_source=mentions)
+-   📝 [The Trap of Tying Your Identity to Your Job Title. (paid)](https://elenaverna.substack.com/p/the-trap-of-tying-your-identity-to) by [Elena Verna](https://open.substack.com/users/3478323-elena-verna?utm_source=mentions)
 
 -   🎥 [How To Drive Value With Data Science - Managing Data Science Teams In Healthcare](https://www.youtube.com/watch?v=Ehqpu8B-QRA)
 
