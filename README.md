@@ -51,6 +51,7 @@ When you're making the switch from IC to manager there are so many new challenge
 -   📚 [An Elegant Puzzle: Systems of Engineering Management (paid)](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V?ref_=ast_author_dp)
 
 -   📚 [The Advice Trap (paid)](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/ref=sr_1_4?crid=1PUAOVOEBGT86&keywords=the+advice+habit&qid=1697901727&sprefix=the+advice+habit%2Caps%2C93&sr=8-4)
+-   📚  [Data Teams: A Unified Management Model for Successful Data-Focused Teams](https://www.amazon.com/Data-Teams-Management-Successful-Data-Focused/dp/1484262271/)
 
 -   📝 [7 Habits Of Effective Data Managers](https://seattledataguy.substack.com/p/7-habits-of-effective-data-manager)
 
@@ -222,6 +223,7 @@ This last section is a mix of articles that range from focusing on how to calcul
 -   📝 [Measuring developer productivity? A response to McKinsey (paid)](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [The Trap of Tying Your Identity to Your Job Title. (paid)](https://elenaverna.substack.com/p/the-trap-of-tying-your-identity-to) by [Elena Verna](https://open.substack.com/users/3478323-elena-verna?utm_source=mentions)
+-   [Planning Your Data Roadmap For 2024 – Elevating Your Data Strategy](https://www.theseattledataguy.com/how-to-plan-to-data-roadmap-for-2024-elevating-your-data-strategy/#page-content)
 
 -   🎥 [How To Drive Value With Data Science - Managing Data Science Teams In Healthcare](https://www.youtube.com/watch?v=Ehqpu8B-QRA)
 
