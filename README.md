@@ -57,7 +57,7 @@ One of the goals as a manager is to help the ICs you manage grow. Luckily, there
 
 -   🎥 [Speedrun Your Tech Promotion](https://www.youtube.com/watch?v=k65UW0gjsgU)
   
--   🎥 [Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon)] (https://www.youtube.com/watch?v=4i5iFlP01mQ)
+-   🎥 [Three Things Preventing Your Promotion to Senior Engineer from a Principal at Amazon](https://www.youtube.com/watch?v=4i5iFlP01mQ)
 
 ### Project Management
 
