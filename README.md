@@ -40,6 +40,8 @@ When you're making the switch from IC to manager there are so many new challenge
 -   📝 [From IC to manager](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
 
 -   🎥 [The Engineer to Manager Transition, by Former Twitter Director of Engineering David Loftesness](https://www.youtube.com/watch?v=qaHEy1I2M5Q)
+  
+-   🎥 [How To Become An Engineering Manager With A Google Engineering Manager](https://www.youtube.com/watch?v=QiQiuNhNbtU)
 
 ### How To Help Your Team Grow In Their Career
 
@@ -54,6 +56,8 @@ One of the goals as a manager is to help the ICs you manage grow. Luckily, there
 -   📚 [The Unspoken Truths for Career Success: Navigating Pay, Promotions, and Power at Work](https://www.amazon.com/dp/B0B5D5S5BT/)
 
 -   🎥 [Speedrun Your Tech Promotion](https://www.youtube.com/watch?v=k65UW0gjsgU)
+  
+-   🎥 [Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon)] (https://www.youtube.com/watch?v=4i5iFlP01mQ)
 
 ### Project Management
 
@@ -101,7 +105,7 @@ Hiring and retaining talent is an important aspect of being a manager. You need 
 
 -   📝 [Retaining Software Engineers and Engineering Managers](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Tips For Hiring Junior Data Engineers](https://seattledataguy.substack.com/p/tips-for-hiring-junior-data-engineers)
+-   📝 [Tips For Hiring Junior Data Engineers](https://www.theseattledataguy.com/how-to-hire-junior-data-engineers/)
 
 -   📝 [Hiring ONLY seniors is the worst policy in the software industry](https://zaidesanton.substack.com/p/hiring-only-seniors-is-worst-policy) by [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
 
@@ -173,7 +177,7 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   📝 [Why You Should Simplify Your Data Infrastructure](https://www.theseattledataguy.com/why-you-should-simplify-your-data-infrastructure/)
 
--   📝 [Optimizing Your Data Infrastructure Costs: How To Approach It And Common Issues](https://seattledataguy.substack.com/p/optimizing-your-data-infrastructure)
+-   📝 [Optimizing Your Data Infrastructure Costs: How To Approach It And Common Issues](https://www.theseattledataguy.com/cutting-your-data-stack-costs-how-to-approach-it-and-common-issues/)
 
 -   📝 [Netflix Tech Stack](https://blog.bytebytego.com/p/ep76-netflixs-tech-stack) by 
 
