@@ -184,6 +184,8 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   [Matt Mazur SQL Style Guide](https://github.com/mattm/sql-style-guidehttps://github.com/mattm/sql-style-guide)
 
+-   [Mozilla SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style)
+
 -   [Project Update Email Or Post](https://docs.google.com/document/d/1FfJeYtzmvrR-1ZJ7iWmhmzOSf5dZInTkzGo2aTye7Ts/edit)
 
 -   [Project Kick-off Template](https://docs.google.com/document/d/1DGH8hx-6kUIh0z1bmMnJkU1CUxdxkY_IHAXbthDDCVY/edit)
