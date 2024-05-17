@@ -182,7 +182,7 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   [30-60-90 Day Checklist](https://docs.google.com/spreadsheets/d/10Rd_r1Ir8SWYb3Y-ZJ6gNisjAXMSRKOYepqEG8dDmi0/edit#gid=0)
 
--   [Matt Mazur SQL Style Guide](https://github.com/mattm/sql-style-guidehttps://github.com/mattm/sql-style-guide)
+-   [Matt Mazur SQL Style Guide](https://github.com/mattm/sql-style-guide)
 
 -   [Mozilla SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style)
 
