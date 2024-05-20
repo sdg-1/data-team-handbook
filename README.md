@@ -218,6 +218,13 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   [🎥 Column vs Row Oriented Databases Explained](https://www.youtube.com/watch?v=iHNovZUZM3A)
 
+
+### Alternative Articles
+I often noticed that as a data leader you need to look into alternatives to various solutions. So here are some articles
+
+- 📝[Alternatives to SSIS(SQL Server Integration Services) – How To Migrate Away From SSIS](https://www.theseattledataguy.com/alternatives-to-ssissql-server-integration-services-how-to-migrate-away-from-ssis/)
+- 📝[4 Alternatives to Fivetran: The Evolving Dynamics of the ETL & ELT Tool Market](https://www.theseattledataguy.com/4-alternatives-to-fivetran-the-evolving-dynamics-of-the-etl-elt-tool-market/)
+
 ### Other
 
 This last section is a mix of articles that range from focusing on how to calculate productivity or perhaps how not to, as well as some other pieces of content I didn't feel like had a specific category.
