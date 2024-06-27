@@ -222,6 +222,8 @@ I'd actually love some more templates, so if you have any feel free to send them
 ### Alternative Articles
 I often noticed that as a data leader you need to look into alternatives to various solutions. So here are some articles
 
+- 📝[Alternatives to dbt](https://www.greenmountaindatasolutions.com/blog/alternatives-to-dbt-data-build-tool)
+- 📝[Alternatives & Competitors To Hevo](https://portable.io/learn/hevo-alternatives-competitors)
 - 📝[Alternatives to SSIS(SQL Server Integration Services) – How To Migrate Away From SSIS](https://www.theseattledataguy.com/alternatives-to-ssissql-server-integration-services-how-to-migrate-away-from-ssis/)
 - 📝[4 Alternatives to Fivetran: The Evolving Dynamics of the ETL & ELT Tool Market](https://www.theseattledataguy.com/4-alternatives-to-fivetran-the-evolving-dynamics-of-the-etl-elt-tool-market/)
 
