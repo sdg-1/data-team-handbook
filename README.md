@@ -82,19 +82,19 @@ One of the goals as a manager is to help the ICs you manage grow. Luckily, there
 Now whether you're the one managing the project or you just need a sense of how to help your team keep projects flowing, here are a few great pieces of content you can look through to improve your project management and estimations.
 
 
--   📝 [Demystifying Project Estimation (paid)](https://hybridhacker.email/p/demystifying-project-estimation) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions) and [Jordan Cutler](https://open.substack.com/users/58854493-jordan-cutler?utm_source=mentions)
+-   📝 [Demystifying Project Estimation (paid)](https://hybridhacker.email/p/demystifying-project-estimation) by [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions) and [Jordan Cutler](https://open.substack.com/users/58854493-jordan-cutler?utm_source=mentions)
 
 -   📝[Navigating the Pitfalls of Data Projects](https://seattledataguy.substack.com/p/navigating-the-pitfalls-of-data-projects)
 
 -   📝[How Big Tech Runs Tech Projects and the Curious Absence of Scrum (paid)](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📚 [Scrum: The Art of Doing Twice the Work in Half the Tim (paid)](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/)e
+-   📚 [Scrum: The Art of Doing Twice the Work in Half the Tim (paid)](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/)
 
 ### Culture
 
-I ended splitting culture and team organization and management(the section below) because they did feel different in terms of how they can impact your team. One is how the team is generally organized and the other is how the team feels and is driven.
+I ended splitting culture and team organization and management (the section below) because they did feel different in terms of how they can impact your team. One is how the team is generally organized and the other is how the team feels and is driven.
 
--   📝 [Inside Stripe's Engineering Culture - Part 1 (paid)](https://newsletter.pragmaticengineer.com/p/stripe) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Inside Stripe's Engineering Culture - Part 1 (paid)](https://newsletter.pragmaticengineer.com/p/stripe) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [Elevating Your Data Team: From Service Providers to Strategic Partners](https://seattledataguy.substack.com/p/elevating-your-data-team-from-service)
 
@@ -120,17 +120,17 @@ How teams are organized impact the way we communicate and operate. Below are sev
 
 Hiring and retaining talent is an important aspect of being a manager. You need to be able to assess candidates with varying skills and backgrounds as well as create an environment that makes employees want to stay.
 
--   📝 [Hiring Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/hiring-software-engineers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Hiring Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/hiring-software-engineers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Retaining Software Engineers and Engineering Managers (paid)](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Retaining Software Engineers and Engineering Managers (paid)](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [Tips For Hiring Junior Data Engineers](https://www.theseattledataguy.com/how-to-hire-junior-data-engineers/)
 
 -   📝 [Hiring ONLY seniors is the worst policy in the software industry](https://zaidesanton.substack.com/p/hiring-only-seniors-is-worst-policy) by [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
 
--   📝 [Hiring an Engineering Manager (paid)](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2)  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Hiring an Engineering Manager (paid)](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?utm_source=%2Fsearch%2Fhiring&utm_medium=reader2) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
--   📝 [Good Attrition, Bad Attrition for Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/attrition?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Good Attrition, Bad Attrition for Software Engineers (paid)](https://newsletter.pragmaticengineer.com/p/attrition?utm_source=%2Fsearch%2Fretention&utm_medium=reader2) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   🎥 [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering Interviews](https://www.youtube.com/watch?v=vFOw_m5zNCs)
 
@@ -144,7 +144,7 @@ When you do hire someone or when you start a new role its great to have a smooth
 
 -   📝 [How To Onboard](https://www.developing.dev/p/how-to-onboard) by [Ryan Peterman](https://open.substack.com/users/38830210-ryan-peterman?utm_source=mentions)
 
--   📝 [Onboarding to a New Company (paid)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2) by  [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
+-   📝 [Onboarding to a New Company (paid)](https://newsletter.pragmaticengineer.com/p/onboarding-to-a-new-company?utm_source=%2Fsearch%2Fonboarding&utm_medium=reader2) by [Gergely Orosz](https://open.substack.com/users/30107029-gergely-orosz?utm_source=mentions)
 
 -   📝 [Navigating Your First 90 Days in a Data Job: A Comprehensive Guide (paid)](https://seattledataguy.substack.com/p/navigating-your-first-90-days-in)
 
@@ -156,25 +156,23 @@ It goes without saying that communication is a very valuable skill in any role. 
 
 -   📚 [Smart Brevity (paid)](https://www.amazon.com/Smart-Brevity-Power-Saying-More-ebook/dp/B09TGMK8G6/ref=sr_1_3?crid=23836X03OZJL9&keywords=smart+brevity&qid=1697901520&sprefix=smart+brevit%2Caps%2C91&sr=8-3)
 
--   📝 [How to make your team read your mind](https://zaidesanton.substack.com/p/how-to-make-your-team-read-your-mind) by 
+-   📝 [How to make your team read your mind](https://zaidesanton.substack.com/p/how-to-make-your-team-read-your-mind) by [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
 
-    [Anton Zaides](https://open.substack.com/users/121956618-anton-zaides?utm_source=mentions)
+-   📝 [Engineers' Guide to Feedback (paid)](https://hybridhacker.email/p/engineers-guide-to-feedback) by [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions)
 
--   📝 [Engineers' Guide to Feedback(paid)](https://hybridhacker.email/p/engineers-guide-to-feedback) by  [Nicola Ballotta](https://open.substack.com/users/110306672-nicola-ballotta?utm_source=mentions)
-
--   📝 [If You Can Code, You Can Write!](https://www.thecaringtechie.com/p/if-you-can-code-you-can-write) by  [Irina Stanescu](https://open.substack.com/users/4332862-irina-stanescu?utm_source=mentions)
+-   📝 [If You Can Code, You Can Write!](https://www.thecaringtechie.com/p/if-you-can-code-you-can-write) by [Irina Stanescu](https://open.substack.com/users/4332862-irina-stanescu?utm_source=mentions)
 
 ### Influence
 
 There are several great writers on Substack that focus heavily on influence. The reason is whether you're an IC or a manager the ability to get buy-in from other teams or work with them to ensure that your project goes the right way is crucial. It can be the difference between your project and team moving forward or continuing to be stuck for the next 6 months.
 
--   📝 [Why Influence Without Authority Is a Vital Skill for Anyone](https://www.thecaringtechie.com/p/why-influence-is-vital) [Irina Stanescu](https://open.substack.com/users/4332862-irina-stanescu?utm_source=mentions)
+-   📝 [Why Influence Without Authority Is a Vital Skill for Anyone](https://www.thecaringtechie.com/p/why-influence-is-vital) by [Irina Stanescu](https://open.substack.com/users/4332862-irina-stanescu?utm_source=mentions)
 
 -   📝 [Lesson #26: How to lead without being in management](https://www.engineeringleadership.xyz/p/lesson-26-how-to-lead-without-being) by [Lessons in Engineering Leadership](https://open.substack.com/pub/lessonsinengineeringleadership)
 
--   📚 [Influence: The Psychology of Persuasion(paid)](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/B08RLT11Q3/)
+-   📚 [Influence: The Psychology of Persuasion (paid)](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/B08RLT11Q3/)
 
--   📚 [Never Split the Difference: Negotiating as if Your Life Depended on It(paid)](https://www.amazon.com/dp/B01COR1GM2?plink=n6oGUkQwPc1xoHOW&pf_rd_r=FHKA4WWNHB34MGWH86HC&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_1_0_im)
+-   📚 [Never Split the Difference: Negotiating as if Your Life Depended on It (paid)](https://www.amazon.com/dp/B01COR1GM2?plink=n6oGUkQwPc1xoHOW&pf_rd_r=FHKA4WWNHB34MGWH86HC&pf_rd_p=c5755cb4-5d8b-42ba-904c-400bf4cbed42&ref_=adblp13npsbx_1_0_im)
 
 ### Templates And Guides
 
@@ -192,23 +190,19 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 ### Data Infrastructure
 
--   📝 [Which cloud provider should be used when building a big data solution?](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used) by 
-
-    [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
+-   📝 [Which cloud provider should be used when building a big data solution?](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used) by [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
 
 -   📝 [Why You Should Simplify Your Data Infrastructure](https://www.theseattledataguy.com/why-you-should-simplify-your-data-infrastructure/)
 
 -   📝 [Optimizing Your Data Infrastructure Costs: How To Approach It And Common Issues](https://www.theseattledataguy.com/cutting-your-data-stack-costs-how-to-approach-it-and-common-issues/)
 
--   📝 [Netflix Tech Stack](https://blog.bytebytego.com/p/ep76-netflixs-tech-stack) by 
+-   📝 [Netflix Tech Stack](https://blog.bytebytego.com/p/ep76-netflixs-tech-stack) by [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
 
-    [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
-
--   📝 [Tech Stack Evolution at Levels.fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets) [Neo Kim](https://open.substack.com/users/135589200-neo-kim?utm_source=mentions)
+-   📝 [Tech Stack Evolution at Levels.fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets) by [Neo Kim](https://open.substack.com/users/135589200-neo-kim?utm_source=mentions)
 
 -   📝 [Data Warehousing Essentials: A Guide To Data Warehousing](https://www.theseattledataguy.com/data-warehousing-essentials-a-guide-to-data-warehousing/)
 
--   📚 [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/) by  [Joe Reis](https://open.substack.com/users/3531217-joe-reis?utm_source=mentions)and [Matt Housley](https://open.substack.com/users/145426123-matt-housley?utm_source=mentions)
+-   📚 [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/) by [Joe Reis](https://open.substack.com/users/3531217-joe-reis?utm_source=mentions) and [Matt Housley](https://open.substack.com/users/145426123-matt-housley?utm_source=mentions)
 
 -   📚 [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/) by [Chip Huyen](https://open.substack.com/users/4141198-chip-huyen?utm_source=mentions)
 
