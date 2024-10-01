@@ -56,6 +56,8 @@ When you're making the switch from IC to manager there are so many new challenge
 -   📝 [7 Habits Of Effective Data Managers](https://seattledataguy.substack.com/p/7-habits-of-effective-data-manager)
 
 -   📝 [From IC to manager (paid)](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
+-   📝 [Don’t Lead a Data Team Before Reading This - Aligning The Data Team with Business Objectives (paid)](https://seattledataguy.substack.com/p/dont-lead-a-data-team-before-reading-edd)
+-   📝 [Building Credibility As A Data Leader (paid)](https://seattledataguy.substack.com/p/building-credibility-as-a-data-leader)
 
 -   🎥 [The Engineer to Manager Transition, by Former Twitter Director of Engineering David Loftesness](https://www.youtube.com/watch?v=qaHEy1I2M5Q)
   
