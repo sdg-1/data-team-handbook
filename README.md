@@ -190,6 +190,8 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   [Project Kick-off Template](https://docs.google.com/document/d/1DGH8hx-6kUIh0z1bmMnJkU1CUxdxkY_IHAXbthDDCVY/edit)
 
+-   [Slow & local data stack](https://github.com/l-mds/local-data-stack)
+
 ### Data Infrastructure
 
 -   📝 [Which cloud provider should be used when building a big data solution?](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used) by [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
@@ -213,6 +215,8 @@ I'd actually love some more templates, so if you have any feel free to send them
 -   🎥 [What is Data Pipeline | How to design Data Pipeline ? - ETL vs Data pipeline](https://www.youtube.com/watch?v=VtzvF17ysbc&t=4s)
 
 -   [🎥 Column vs Row Oriented Databases Explained](https://www.youtube.com/watch?v=iHNovZUZM3A)
+
+-   [Slow & local data: Dagster, dbt, duckdb as new local MDS](https://georgheiler.com/post/dbt-duckdb-production/)
 
 
 ### Alternative Articles
