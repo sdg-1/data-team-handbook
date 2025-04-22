@@ -194,12 +194,12 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   📝 [Which cloud provider should be used when building a big data solution?](https://blog.bytebytego.com/p/which-cloud-provider-should-be-used) by [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
 
+-   📝 [Change Data Capture (CDC) Done Correctly](https://estuary.dev/blog/cdc-done-correctly/?utm_source=SeattleDataGuy&utm_medium=social&utm_campaign=SeattleDataGuy)
 -   📝 [Why You Should Simplify Your Data Infrastructure](https://www.theseattledataguy.com/why-you-should-simplify-your-data-infrastructure/)
 
 -   📝 [Optimizing Your Data Infrastructure Costs: How To Approach It And Common Issues](https://www.theseattledataguy.com/cutting-your-data-stack-costs-how-to-approach-it-and-common-issues/)
 
 -   📝 [Netflix Tech Stack](https://blog.bytebytego.com/p/ep76-netflixs-tech-stack) by [Alex Xu](https://open.substack.com/users/22329494-alex-xu?utm_source=mentions)
-
 -   📝 [Tech Stack Evolution at Levels.fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets) by [Neo Kim](https://open.substack.com/users/135589200-neo-kim?utm_source=mentions)
 
 -   📝 [Data Warehousing Essentials: A Guide To Data Warehousing](https://www.theseattledataguy.com/data-warehousing-essentials-a-guide-to-data-warehousing/)
@@ -219,6 +219,7 @@ I'd actually love some more templates, so if you have any feel free to send them
 I often noticed that as a data leader you need to look into alternatives to various solutions. So here are some articles
 
 - 📝[Alternatives to dbt](https://www.greenmountaindatasolutions.com/blog/alternatives-to-dbt-data-build-tool)
+- 📝[Top 4 AWS DMS Alternatives Compared](https://estuary.dev/blog/aws-dms-alternatives/?utm_source=SeattleDataGuy&utm_medium=social&utm_campaign=SeattleDataGuy)
 - 📝[Alternatives & Competitors To Hevo](https://portable.io/learn/hevo-alternatives-competitors)
 - 📝[Alternatives to SSIS(SQL Server Integration Services) – How To Migrate Away From SSIS](https://www.theseattledataguy.com/alternatives-to-ssissql-server-integration-services-how-to-migrate-away-from-ssis/)
 - 📝[4 Alternatives to Fivetran: The Evolving Dynamics of the ETL & ELT Tool Market](https://www.theseattledataguy.com/4-alternatives-to-fivetran-the-evolving-dynamics-of-the-etl-elt-tool-market/)
