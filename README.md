@@ -53,6 +53,7 @@ When you're making the switch from IC to manager there are so many new challenge
 -   📚 [The Advice Trap (paid)](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/ref=sr_1_4?crid=1PUAOVOEBGT86&keywords=the+advice+habit&qid=1697901727&sprefix=the+advice+habit%2Caps%2C93&sr=8-4)
 -   📚  [Data Teams: A Unified Management Model for Successful Data-Focused Teams](https://www.amazon.com/Data-Teams-Management-Successful-Data-Focused/dp/1484262271/)
 
+-   📝 [Managing the First Year: An Essay About Year One of Managing a Data Team (free)](https://alexkgold.space/mfy.html)
 -   📝 [7 Habits Of Effective Data Managers](https://seattledataguy.substack.com/p/7-habits-of-effective-data-manager)
 
 -   📝 [From IC to manager (paid)](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
