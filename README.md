@@ -10,6 +10,8 @@ One of the problems we face in the world today isn't a lack of information but t
 
 Now, there are still a lot of articles and pieces of content here. But I view this as more of the page of resources that you can return to when you have specific problems. Thus, I have broken this resource list down by problems vs by type of resources.
 
+I've also created a free community you can join [here if you're looking to speak with other data leaders](https://the-data-leaders-playbook.circle.so/join?invitation_token=7e6bc35d5952661fc24cbaaae0a091320733ee07-56abddf3-9710-48d1-b5c9-8b6ceb91d294)! Check out upcoming webinars to see if there is anything you'd like to attend!
+
 Legend
 ------
 
