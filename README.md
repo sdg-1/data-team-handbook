@@ -33,6 +33,7 @@ Below the content is a mix of books, articles and videos and I wanted to give a 
 - [Onboarding](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#onboarding)
 - [Communication](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#communication)
 - [Influence](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#influence)
+- [Webinar](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#webinar)
 - [Templates](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#templates-and-guides)
 - [Data Infrastructure](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#data-infrastructure)
 - [Other](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#other)
@@ -216,6 +217,11 @@ I'd actually love some more templates, so if you have any feel free to send them
 
 -   [🎥 Column vs Row Oriented Databases Explained](https://www.youtube.com/watch?v=iHNovZUZM3A)
 
+### Webinars
+
+- 🎥 [From Teradata To Databricks - How Data Infra Has Changed Over The Decades](https://the-data-leaders-playbook.circle.so/c/resources/from-teradata-to-databricks-how-data-infra-has-changed-over-the-decades)
+- 🎥 [Driving Clear Communication And Impact - Frameworks For Data Leaders](https://the-data-leaders-playbook.circle.so/c/resources/driving-clear-communication-and-impact-frameworks-for-data-leaders)
+- 🎥 [From Financial Analyst To Head Of Data At Instagram And Google](https://youtube.com/live/LCkAG0Zz80A)
 
 ### Alternative Articles
 I often noticed that as a data leader you need to look into alternatives to various solutions. So here are some articles
