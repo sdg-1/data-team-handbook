@@ -33,7 +33,7 @@ Below the content is a mix of books, articles and videos and I wanted to give a 
 - [Onboarding](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#onboarding)
 - [Communication](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#communication)
 - [Influence](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#influence)
-- [Webinar](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#webinar)
+- [Webinars](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#webinar)
 - [Templates](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#templates-and-guides)
 - [Data Infrastructure](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#data-infrastructure)
 - [Other](https://github.com/sdg-1/data-team-handbook?tab=readme-ov-file#other)
@@ -218,6 +218,8 @@ I'd actually love some more templates, so if you have any feel free to send them
 -   [🎥 Column vs Row Oriented Databases Explained](https://www.youtube.com/watch?v=iHNovZUZM3A)
 
 ### Webinars
+
+Some of these webinars are on the Data Leaders Playbook, you can sign up for it [here for free](https://the-data-leaders-playbook.circle.so/join?invitation_token=7e6bc35d5952661fc24cbaaae0a091320733ee07-56abddf3-9710-48d1-b5c9-8b6ceb91d294).
 
 - 🎥 [From Teradata To Databricks - How Data Infra Has Changed Over The Decades](https://the-data-leaders-playbook.circle.so/c/resources/from-teradata-to-databricks-how-data-infra-has-changed-over-the-decades)
 - 🎥 [Driving Clear Communication And Impact - Frameworks For Data Leaders](https://the-data-leaders-playbook.circle.so/c/resources/driving-clear-communication-and-impact-frameworks-for-data-leaders)
